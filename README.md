@@ -5,7 +5,12 @@
 <div align = "center">
   <br>
   <h3>KIM JONG KYEONG</h3>
+   <br>
   Back-End Developer
+   <br>
+   <br>
+   <br>
+   <br>
 </div>
 
 <div align="center">
