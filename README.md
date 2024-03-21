@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=5882FA&height=200&section=header&text=Hi&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=5882FA&height=200&section=header&text=Hi&fontSize=50" />
 
 <!--
 **JONG-KYEONG/JONG-KYEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
