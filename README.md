@@ -5,7 +5,7 @@
 <div align = "center">
   <br>
   <h3>KIM JONG KYEONG</h3>
-  따라가는 중입니다
+  Back-End Developer
 </div>
 
 <div align="center">
