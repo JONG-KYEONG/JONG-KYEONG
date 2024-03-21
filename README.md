@@ -1,7 +1,12 @@
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=200&section=header&text=Hi&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=150&section=header&text=&fontSize=0" />
 </div>
 
+<div align = "center">
+  <br>
+  <h3>KIM JONG KYEONG</h3>
+  따라가는 중입니다
+</div>
 
 <div align="center">
 <h3>💻Stacks💻</h3> 
