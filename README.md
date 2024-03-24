@@ -4,7 +4,7 @@
 
 <div align = "center">
   <br>
-  <h3>KIM JONG KYEONG</h3>
+  <h2>KIM JONG KYEONG</h2>
    <br>
   Back-End Developer
    <br>
