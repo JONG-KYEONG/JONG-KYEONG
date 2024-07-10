@@ -6,8 +6,6 @@
   <br>
   <h2>KIM JONG KYEONG</h2>
    <br>
-  Back-End Developer
-   <br>
    <br>
    <br>
    <br>
