@@ -3,12 +3,7 @@
 </div>
 
 <div align = "center">
-  <br>
-  <h2>KIM JONG KYEONG</h2>
-   <br>
-   <br>
-   <br>
-   <br>
+  <h1>KIM JONG KYEONG</h1>
 </div>
 
 <div align="center">
@@ -33,7 +28,6 @@
 
 <div align = "center">
 
-<br>
 <br>
 <br>
 
