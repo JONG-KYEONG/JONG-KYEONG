@@ -18,7 +18,8 @@
   <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"> 
-<img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white"> 
+<a href="https://solved.ac/profile/oo7bangjk">
+<img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white"> </a>
   <br>
 
 
