@@ -28,8 +28,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONG-KYEONG&layout=compact&theme=dark)
 
-<a href="https://solved.ac/profile/oo7bangjk">
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oo7bangjk) </a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oo7bangjk)](https://solved.ac/profile/oo7bangjk)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONG-KYEONG&hide=contribs,prs&show_icons=true&theme=graywhite)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=100&section=footer&text=&fontSize=0" />
